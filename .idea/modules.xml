@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeignPattern.iml" filepath="$PROJECT_DIR$/DeignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternPractice/patternPractice.iml" filepath="$PROJECT_DIR$/patternPractice/patternPractice.iml" />
+    </modules>
+  </component>
+</project>
